@@ -197,7 +197,7 @@ def run(inp, out_dir, subfolders=False, log=print):
             except RuntimeError as e:
                 log("  BLAD: %s" % e)
             except Exception as e:
-                log("  BLAD: %s (plik chroniony haslem albo uszkodzony?)" % com_error(e))
+                log("  BLAD: %s" % com_error(e))
     finally:
         office.close()
     log("Zakonczono: %d z %d plikow -> %s" % (ok, len(files), out_dir))

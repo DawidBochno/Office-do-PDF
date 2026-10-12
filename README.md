@@ -34,7 +34,7 @@ działa normalnie, a przy prezentacjach pojawi się komunikat w logu.
 ## Instalacja (jednorazowo)
 
 1. **Python** — pobierz z [python.org](https://www.python.org/downloads/windows/)
-   (wersja 3.9 lub nowsza). W instalatorze zaznacz **„Add python.exe to PATH”**.
+   (wersja 3.11 lub nowsza, najlepiej najnowsza). W instalatorze zaznacz **„Add python.exe to PATH”**.
    Opcja „tcl/tk and IDLE” jest zaznaczona domyślnie i musi taka zostać.
    Uprawnienia administratora nie są potrzebne.
 2. **Program** — na stronie [github.com/DawidBochno/Office-do-PDF](https://github.com/DawidBochno/Office-do-PDF)
